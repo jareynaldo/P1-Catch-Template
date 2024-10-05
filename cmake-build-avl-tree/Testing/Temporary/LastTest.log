@@ -1,0 +1,223 @@
+Start testing: Oct 04 21:30 EDT
+----------------------------------------------------------
+1/5 Testing: Invalid Commands
+1/5 Test: Invalid Commands
+Command: "/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests" "Invalid Commands"
+Directory: /Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree
+"Invalid Commands" start time: Oct 04 21:30 EDT
+Output:
+----------------------------------------------------------
+Filters: "Invalid Commands"
+Randomness seeded to: 3397895106
+unsuccessful
+unsuccessful
+unsuccessful
+successful
+unsuccessful
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Invalid Commands" end time: Oct 04 21:30 EDT
+"Invalid Commands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: Edge Cases
+2/5 Test: Edge Cases
+Command: "/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests" "Edge Cases"
+Directory: /Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree
+"Edge Cases" start time: Oct 04 21:30 EDT
+Output:
+----------------------------------------------------------
+Filters: "Edge Cases"
+Randomness seeded to: 4234286617
+successful
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Edge Cases" end time: Oct 04 21:30 EDT
+"Edge Cases" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: Rotations
+3/5 Test: Rotations
+Command: "/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests" "Rotations"
+Directory: /Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree
+"Rotations" start time: Oct 04 21:30 EDT
+Output:
+----------------------------------------------------------
+Filters: "Rotations"
+Randomness seeded to: 3015801135
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Rotations" end time: Oct 04 21:30 EDT
+"Rotations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: Deletion
+4/5 Test: Deletion
+Command: "/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests" "Deletion"
+Directory: /Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree
+"Deletion" start time: Oct 04 21:30 EDT
+Output:
+----------------------------------------------------------
+Filters: "Deletion"
+Randomness seeded to: 820451507
+successful
+successful
+successful
+successful
+successful
+successful
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Deletion" end time: Oct 04 21:30 EDT
+"Deletion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: Large Insert and Remove
+5/5 Test: Large Insert and Remove
+Command: "/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests" "Large Insert and Remove"
+Directory: /Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree
+"Large Insert and Remove" start time: Oct 04 21:30 EDT
+Output:
+----------------------------------------------------------
+Filters: "Large Insert and Remove"
+Randomness seeded to: 3429292867
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+===============================================================================
+All tests passed (111 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Large Insert and Remove" end time: Oct 04 21:30 EDT
+"Large Insert and Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 04 21:30 EDT

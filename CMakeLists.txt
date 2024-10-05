@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(Project1)
+project(AVL-Tree)
 
 set(CMAKE_CXX_STANDARD 14)
 
@@ -20,7 +20,11 @@ FetchContent_MakeAvailable(Catch2)
 include_directories(src)
 
 add_executable(Main
-        src/main.cpp # your main file
+        src/main.cpp
+
+        src/AVL.cpp # your main file
+        src/AVL.h
+
         # add your own header files below - should be automatically added in CLion
         # example (can also separate with newlines):
         # src/AVL.h src/AVL.cpp
@@ -28,7 +32,8 @@ add_executable(Main
         
 # These tests can use the Catch2-provided main
 add_executable(Tests
-        test/test.cpp # your test file
+        test/test.cpp
+        src/AVL.cpp # your test file
         # add your own header files below - should be automatically added in CLion
         # example (can also separate with newlines):
         # src/AVL.h src/AVL.cpp

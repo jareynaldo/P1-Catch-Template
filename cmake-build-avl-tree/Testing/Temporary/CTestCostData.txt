@@ -1,0 +1,52 @@
+Example 0 0
+Test 2 0
+Example 0 0
+Example 0 0
+Test 2 0
+Example 0 0
+Example 0 0
+Test 2 0
+Example 0 0
+Incorrect 0 1
+Edge 0 1
+Incorrect 0 1
+Edge 0 1
+Rotations 9 0.0015262
+Incorrect 0 1
+Edge 0 1
+Deletion 7 0.00152295
+Large 0 0
+Incorrect 0 1
+Edge 0 1
+Deletion 7 0.00152295
+Large 0 0
+Incorrect 0 1
+Edge 0 1
+Deletion 7 0.00152295
+Large 0 0
+Incorrect 0 1
+Edge 0 1
+Deletion 7 0.00152295
+Large 0 0
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid 0 0
+Edge 0 1
+Large 0 0
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid Commands 1 0.0294182
+Edge Cases 1 0.010641
+Large Insert and Remove 1 0.0169173
+---
