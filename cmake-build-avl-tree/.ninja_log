@@ -338,3 +338,15 @@
 3163	3998	1728091845234514416	Tests	a999b9c67f2ba997
 3163	3998	1728091845234514416	Tests-b12d07c_tests.cmake	a999b9c67f2ba997
 3163	3998	1728091845234514416	/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests-b12d07c_tests.cmake	a999b9c67f2ba997
+17	2493	1728092831604431481	CMakeFiles/Tests.dir/test/test.cpp.o	ab618dc3d32ddaf8
+2493	4150	1728092835735556698	Tests	a999b9c67f2ba997
+2493	4150	1728092835735556698	Tests-b12d07c_tests.cmake	a999b9c67f2ba997
+2493	4150	1728092835735556698	/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests-b12d07c_tests.cmake	a999b9c67f2ba997
+3	681	1728092841608519751	CMakeFiles/Main.dir/src/main.cpp.o	6dfa08582c026d5f
+681	709	1728092842286228099	Main	b14a143fb2dd8bac
+5	687	1728093421020369168	CMakeFiles/Main.dir/src/main.cpp.o	6dfa08582c026d5f
+687	787	1728093421701855319	Main	b14a143fb2dd8bac
+8	469	1728093424886158218	CMakeFiles/Tests.dir/test/test.cpp.o	ab618dc3d32ddaf8
+469	751	1728093425629088195	Tests	a999b9c67f2ba997
+469	751	1728093425629088195	Tests-b12d07c_tests.cmake	a999b9c67f2ba997
+469	751	1728093425629088195	/Users/josereynaldo/Documents/GitHub/AVL-Tree/cmake-build-avl-tree/Tests-b12d07c_tests.cmake	a999b9c67f2ba997

@@ -11,22 +11,22 @@ Incorrect 0 1
 Edge 0 1
 Incorrect 0 1
 Edge 0 1
-Rotations 9 0.0015262
+Rotations 11 0.000280773
 Incorrect 0 1
 Edge 0 1
-Deletion 7 0.00152295
+Deletion 9 0.000343111
 Large 0 0
 Incorrect 0 1
 Edge 0 1
-Deletion 7 0.00152295
+Deletion 9 0.000343111
 Large 0 0
 Incorrect 0 1
 Edge 0 1
-Deletion 7 0.00152295
+Deletion 9 0.000343111
 Large 0 0
 Incorrect 0 1
 Edge 0 1
-Deletion 7 0.00152295
+Deletion 9 0.000343111
 Large 0 0
 Invalid 0 1
 Edge 0 1
@@ -46,7 +46,13 @@ Large 0 0
 Invalid 0 1
 Edge 0 1
 Large 0 0
-Invalid Commands 1 0.0294182
-Edge Cases 1 0.010641
-Large Insert and Remove 1 0.0169173
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid 0 1
+Edge 0 1
+Large 0 0
+Invalid Commands 1 0.00879208
+Edge Cases 1 0.00316525
+Large Insert and Remove 1 0.00472683
 ---
